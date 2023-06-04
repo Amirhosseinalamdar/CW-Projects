@@ -1,0 +1,53 @@
+<html dir="rtl">
+	<head>
+	
+		<title>
+			a.alamdar resume
+		</title>
+		 <script type="text/javascript" src="salam.js"></script>
+		<link rel="stylesheet" type="text/CSS" href="mystyle.CSS" />
+	</head>
+	
+	<body>
+		<div class="yoo"><sup>
+		<h3 > <a href="introduction.html" class="yo">introduction</a>
+		<a href="skills.html" class="yo">skills</a>
+		<a href="achievments.html" class="yo">achievments</a>
+		<a href="contactMe.html" class="yo">contact_me</a></h3>
+		</div></sup>
+		
+
+		
+		
+		
+		<form action="/action_page.php" method="get" class="form" dir="ltr">
+			<label for="fname" >First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+			<label for="lname">Last name:</label>
+			<input type="text" id="lname" name="lname"><br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<label for="Email" id"firstLabel">Email:</label>
+			<input type="text" id="Email" name="Email"><br><br>&nbsp;&nbsp;
+			<label for="mssg">message:</label>
+			<input type="text" id="mssg" name="mssg"><br><br>
+		
+		</form>
+		<p class="submit" dir="ltr">
+		<button onclick='submit()' class="submit1"> submit </button>
+		</p>
+		
+		<div  dir="ltr">
+			<h3 class="footer">Email: ah.alamdar546@gmail.com</h3> <br>
+			<div class="footer2">
+			<a  class="links" href="https://github.com/Amirhosseinalamdar?tab=packages"> 
+			my git</a> &nbsp; &nbsp;
+			<a class="links" href="https://stackoverflow.com/users/17492250/amirhossein-alamdar"> 
+			my stackoverflow</a>
+			</div>
+		</div>
+		
+	</body>
+	
+	
+	
+	
+</html>

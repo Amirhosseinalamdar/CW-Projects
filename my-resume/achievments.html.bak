@@ -1,0 +1,46 @@
+<html dir="rtl">
+
+
+	<head>
+		<title>
+			a.alamdar resume
+		</title>
+		
+		<link rel="stylesheet" type="text/CSS" href="mystyle.CSS" />
+	</head>
+	<body>
+		<div class="yoo"><sup>
+		<h3 > <a href="introduction.html" class="yo">introduction</a>
+		<a href="skills.html" class="yo">skills</a>
+		<a href="achievments.html" class="yo">achievments</a>
+		<a href="contactMe.html" class="yo">contact_me</a></h3>
+		</div></sup>	
+
+
+		<div>
+			<h1 class="skills">دستاورد ها<h1>
+
+			<h3 class="list"> 
+				<ul>
+					<li>دارای مقام در چند مسابقه خانه ریاضی</li><br>
+					<li>رتبه برتر رشته ریاضی در کنکور سراسری</li><br>
+					<li>عضو بنیاد ملی نخبگان</li>
+				</ul>
+			</h3>
+
+
+
+
+
+		<div  dir="ltr">
+			<h3 class="footer">Email: ah.alamdar546@gmail.com</h3> <br>
+			<div class="footer2">
+			<a class="links" href="https://github.com/Amirhosseinalamdar?tab=packages"> 
+			my git</a>&nbsp; &nbsp;
+			<a class="links" href="https://stackoverflow.com/users/17492250/amirhossein-alamdar"> 
+			my stackoverflow</a>
+			</div>
+		</div>		
+	</body>
+	
+</html>

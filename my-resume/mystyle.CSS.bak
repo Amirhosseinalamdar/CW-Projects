@@ -1,0 +1,87 @@
+
+body {
+	background-color: lightgray;
+	font-family: b nazanin;
+}
+
+#mypic {
+
+	border-radius: 30px;
+	width: 150px;
+	height: 200px;
+
+}
+.center {
+	position: absolute;
+	padding-right: 10px;
+	
+
+}
+
+.mypic {
+	padding-left: 70px;
+  display: flex;
+  justify-content: flex-end;
+}  
+
+.links {
+	text-decoration: none;
+	background-color: aquamarine;
+	padding: 10px;
+	border-radius: 18px;
+	color: gray;
+
+}
+
+.yoo {
+	word-spacing: 3em;
+}
+
+.p {
+	padding-right: 30px;
+	padding-left: 400px;
+	font-size: 25px;
+	font-weight: normal;
+}
+
+.skills {
+	padding: 40px;
+}
+
+.footer {
+	padding-left: 70px;
+	padding-top: 370px;
+}
+.footer2 {
+
+	word-spacing: 100 px;
+	padding-left: 70px;
+	padding-bottom:40px;
+}
+.list {
+	padding-right: 50px;
+}
+.form {
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+
+
+.submit{
+	padding-left: 240px;
+
+
+}
+.submit1{
+	padding: 5px;
+	border-radius:10px;
+}
+
+.yo{
+	text-decoration: none;
+	background-color: gray;
+	padding: 10px;
+	border-radius: 18px;
+	color: aquamarine;
+}

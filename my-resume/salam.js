@@ -1,0 +1,9 @@
+ function func(){
+             document.getElementById('func').style="text-align: center";
+         }
+ function submit(){
+             var x=confirm("are you sure?");
+              if (x== true){
+				  alert('halle!');
+			  }
+ }
